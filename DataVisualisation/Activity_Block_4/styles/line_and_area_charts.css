@@ -1,0 +1,22 @@
+.line {
+   fill: none;
+   stroke: slategrey;
+   stroke-width: 0.5;
+}
+
+
+.halfMillionMarks {
+    stroke: red;
+    stroke-dasharray: 2, 3;
+}
+
+.halfMilLabel{
+    font-family: Arial, sans-serif;
+	font-size: 12px;
+	fill: red;
+}
+
+.area{
+    fill: slategrey;
+}
+
